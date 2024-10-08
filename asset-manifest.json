@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jfsd-sdp-project/static/css/main.fe082577.css",
+    "main.js": "/jfsd-sdp-project/static/js/main.0675228d.js",
+    "static/js/453.b4128fec.chunk.js": "/jfsd-sdp-project/static/js/453.b4128fec.chunk.js",
+    "static/media/Kurtas.webp": "/jfsd-sdp-project/static/media/Kurtas.a516994b906819227664.webp",
+    "index.html": "/jfsd-sdp-project/index.html",
+    "main.fe082577.css.map": "/jfsd-sdp-project/static/css/main.fe082577.css.map",
+    "main.0675228d.js.map": "/jfsd-sdp-project/static/js/main.0675228d.js.map",
+    "453.b4128fec.chunk.js.map": "/jfsd-sdp-project/static/js/453.b4128fec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe082577.css",
+    "static/js/main.0675228d.js"
+  ]
+}
