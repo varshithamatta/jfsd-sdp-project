@@ -1,0 +1,49 @@
+.why-choose-us-container {
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .why-choose-us-container h2 {
+    font-size: 60px;
+    margin-bottom: 10px;
+  }
+  
+  .why-choose-us-container p {
+    font-size: 2rem;
+    color: #bbb;
+    margin-bottom: 40px;
+  }
+  
+  /* Card Section */
+  .card-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    background-color: #ff4141;
+    padding: 20px;
+    width: 350px;
+    margin: 10px;
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .card h3 {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    color: #fff;
+  }
+  
+  .card p {
+    color: #fff;
+    font-size: 1rem;
+  }
+  
+  .icon {
+    margin-top: 20px;
+    font-size: 2.5rem;
+  }

@@ -1,0 +1,96 @@
+/* src/components/ContactPage.css */
+
+.contact-page {
+    display: flex;
+    height: 90vh;
+    width: 100%;
+    margin-top:70px;
+  }
+  
+  .contact-info {
+    background-image: url('https://storage.googleapis.com/gweb-cloudblog-publish/images/Deck.glExample1.max-2200x2200.png'); /* You can use the background image */
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    padding: 50px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height:90%; 
+  }
+  
+  .contact-info h2 {
+    margin-bottom: 40px;
+    font-size: 50px;
+  }
+
+  .contact-info p {
+   margin-bottom: 20px;
+    font-size: 30px;
+  }
+  
+  .contact-phone, .contact-email {
+    color: #ffc641; /* Green color for contact info */
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  .contact-form {
+    width: 50%;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+  }
+  
+  .contact-form h2 {
+    margin-bottom: 50px;
+    font-size: 50px;
+    color: #ff4141;
+  }
+  
+  .form-group {
+    margin-bottom: 30px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .name-inputs {
+    display: flex;
+    gap: 10px;
+  }
+  
+  input, textarea {
+    width: 50%;
+    padding: 10px;
+    border: 2px solid #000;
+    border-radius: 20px;
+    font-size: 20px;
+  }
+  
+  textarea {
+    resize: none;
+    height: 100px;
+  }
+  
+  .submit-btn {
+    background-color: #ff4141;
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #ffc641;
+  }
+  

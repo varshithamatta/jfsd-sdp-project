@@ -1,0 +1,21 @@
+.stats-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 70px 0;
+  }
+  
+  .stat-item {
+    text-align: center;
+  }
+  
+  .stat-item h1 {
+    font-size: 3rem;
+    margin: 0;
+    color: #000;
+  }
+  
+  .stat-item p {
+    font-size: 1.2rem;
+    color: #aaa;
+  }
